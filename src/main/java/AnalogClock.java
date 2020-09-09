@@ -19,8 +19,8 @@ class AnalogClock {
         hour = deg / 30;
         ndeg = deg - (hour * 30);
         aTime = ndeg * 2;
-        nedgg = aTime * 6;
-        System.out.print(ndeg);
+        ndegg = aTime * 6;
+        System.out.print(ndegg);
 
 
         // closing the scanner object
